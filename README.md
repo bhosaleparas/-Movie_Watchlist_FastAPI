@@ -65,7 +65,7 @@ python -m venv venv
      source venv/bin/activate
      ```
 
-2. **Install dependencies**
+3. **Install dependencies**
 
 ```bash
 pip install -r requirements.txt
@@ -81,7 +81,7 @@ pip install -r requirements.txt
      ACCESS_TOKEN_EXPIRE_MINUTES=30
      ```
 
-2. **Run the application**
+4. **Run the application**
 
 ```bash
 # Option 1: Using uvicorn directly
